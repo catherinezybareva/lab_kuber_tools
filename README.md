@@ -1,5 +1,5 @@
 # lab_kuber_tools №10
-1. Перед началом работы удаляются старые ресурсы из кластера, а затем
+1. Перед началом работы удаляются старые ресурсы из кластера
   <img width="580" height="113" alt="image" src="https://github.com/user-attachments/assets/f729db7a-54b3-4b89-908a-f9537010a88b" />
   <img width="709" height="283" alt="image" src="https://github.com/user-attachments/assets/03ad24f1-1615-45d3-b932-60d95bb4f2da" />
 
